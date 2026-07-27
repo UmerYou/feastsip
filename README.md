@@ -1,5 +1,7 @@
 # Feast & Sip — Random Recipe & Cocktail Generator
-https://feastsip.netlify.app/
+## 🌐 Live App URL
+
+**Live App:** https://feastsip.netlify.app/
 A production-grade, highly aesthetic, fully accessible, and offline-resilient web application that generates random gourmet meal recipes and artisanal cocktail recipes at the touch of a button. Built with Vanilla HTML5, CSS3 (Tailwind CDN + Custom CSS System), and modular JavaScript (ES2020+). Zero build tools, zero frameworks, zero npm dependencies.
 
 ---
